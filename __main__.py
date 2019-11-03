@@ -19,7 +19,7 @@ model.compile(optimizer="rmsprop", loss="binary_crossentropy", metrics=["accurac
 
 # training data
 data = np.array([[0, 0], [0, 1], [1, 0], [1, 1]])
-labels = np.array([1, 0, 0, 1])
+labels = np.array([0, 1, 1, 0])
 
 # train model
 model.fit(data, labels, epochs=5000, batch_size=4)
