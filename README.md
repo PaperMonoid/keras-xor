@@ -1,5 +1,5 @@
 # Keras XOR
-Simple XOR model with keras.
+A simple XOR model with keras.
 
 ## How to run
 Install the required libraries with pip.
