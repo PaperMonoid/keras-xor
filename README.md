@@ -2,8 +2,13 @@
 Simple XOR model with keras.
 
 ## How to run
-```
+Install the required libraries with pip.
+```sh
 pip install -r requirements.txt
+```
+
+Run the python script.
+```sh
 python .
 ```
 
