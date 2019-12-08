@@ -1,6 +1,10 @@
 # Keras XOR
 A simple XOR model with keras.
 
+![model](model.png)
+
+Graphic generated with [NN-SVG](http://alexlenail.me/NN-SVG/index.html) made by [Alex Lenail](http://alexlenail.me/).
+
 ## How to run
 Install the required libraries with pip.
 ```sh
